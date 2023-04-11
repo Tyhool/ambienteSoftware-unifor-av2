@@ -43,3 +43,11 @@ input {
   margin-left: 25px;
   margin-top: 25px;
 }
+
+div{
+  margin: 10px;
+}
+
+p {
+  text-align: center;
+}
