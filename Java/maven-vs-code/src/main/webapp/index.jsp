@@ -11,7 +11,8 @@
 <body>
     <div class="container">
         <div class="box">
-            <h1>Escolha a função</h1>
+            <h1>Java</h1>
+            <p>Escolha a função</p>
             <div>
                 <a href="Java/Sequencia_Contagem.jsp"><input type="submit" value="Contagem" /></a>
                 <a href="Java/Sequencia_Fibonacci.jsp"><input type="submit" value="Fibonacci" /></a>

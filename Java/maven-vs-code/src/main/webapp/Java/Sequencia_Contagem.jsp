@@ -44,6 +44,7 @@
     <div class="container">
         <div class="box">
             <div>
+                <h1>Contagem</h1>
                 <form action="Sequencia_Contagem.jsp" method="get">
                     <label for="numero">Número:</label>
                     <input type="text" id="numero" name="numero" required>

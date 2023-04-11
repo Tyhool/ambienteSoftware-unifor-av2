@@ -23,7 +23,7 @@ h1 {
 .box {
   width: 400px;
   height: 450px;
-  background: #ccc;
+  background: #A6E4F7;
   }
 body {
     margin: 0px;
@@ -42,4 +42,12 @@ input {
   font-size: 10px;
   margin-left: 25px;
   margin-top: 25px;
+}
+
+div{
+  margin: 10px;
+}
+
+p {
+  text-align: center;
 }
