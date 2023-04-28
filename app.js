@@ -21,7 +21,7 @@ app.get("/professor/nuvem/:nome?", function(req, res){
     }
 })
 
-app.listen(4000,function(erro){
+app.listen(3000,function(erro){
     
     if(erro){
         console.log("erro ao iniciar.");
