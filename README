@@ -1,0 +1,32 @@
+A plataforma utilizada é o Visual Studio Code.
+Extensoes utilizadas:
+  -Code Runner
+  -Extension Pack for Java
+  -HTML Format
+  -JavaScript(ES6) code snippet
+  -Liberty Tools
+  Corretor de código
+
+Descrições:
+  Code Runner
+    Executar trecho de código ou arquivo de código para vários idiomas: C, C++, Java, JavaScript, PHP, Python, Perl, Perl 6, Ruby, Go, Lua, Groovy, PowerShell, BAT/CMD, BASH/SH, F# Script, 
+    F# ( .NET Core), C# Script, C# (.NET Core), VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml Script, R, AppleScript, Elixir, Visual Basic .NET, Clojure, Haxe, 
+    Objective-C , Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Free Pascal, Haskell, Nim, D, Lisp, Kit, V, SCSS, Sass, CUDA, Less, Fortran, Ring, Standard ML, Zig e comando personalizado
+  Extension Pack for Java
+    É uma coleção de extensões populares que podem ajudar a escrever, testar e depurar aplicativos Java no Visual Studio Code.
+  HTML Format
+    Formata documentos HTML por recuo automático, encapsulamento e remoção de espaços em branco desnecessários, preservando as novas linhas.
+  JavaScript(ES6) code snippet
+    Esta extensão contém trechos de código para JavaScript na sintaxe ES6 para o editor Vs Code (suporta JavaScript e TypeScript).
+  Liberty Tools
+     Oferece recursos para desenvolver aplicativos Java nativos da nuvem com Open Liberty e WebSphere Liberty. Itere rapidamente com o modo de desenvolvimento do Liberty, 
+     codifique com assistência para APIs MicroProfile e Jakarta EE e edite facilmente os arquivos de configuração do Liberty. 
+     
+JavaScript:
+A tela inicial é o arquivo TelaJavaScript.html, ele roda no browser e chama outros arquivos na pagina JavaScript. Na pasta JavaScript tem um arquivo .html e um arquivo .js de cada função individual
+
+Java:
+Para rodar o java ele funciona como MVC(Uma sigla do termo em inglês Model (modelo) View (visão) e Controller (Controle) que facilita a troca de informações entre a interface do usuário aos dados no banco, 
+fazendo com que as respostas sejam mais rápidas e dinâmicas.) e a extensão é .jsp. Para ter rodar foi utilizado o Liberty Tools, que cria uma pasta para rodar o servidor e a programação é dentro dessa pasta,
+quando configurado é só da um start e ele mostra no terminal o link do endereço local, copiar e colar no browser e estara funcionando
+ 
